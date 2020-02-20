@@ -2,7 +2,6 @@
     "en_udify": [
         {
             "filename": "en_udify-0.5.tar.gz",
-            "tag": "0.5",
             "version": "0.5",
             "download_url": "https://github.com/PKSHATechnology-Research/camphr_models/releases/download/0.5/en_udify-0.5.tar.gz"
         }
@@ -10,9 +9,15 @@
     "en_elmo_medium": [
         {
             "filename": "en_elmo_medium-0.5.tar.gz",
-            "tag": "0.5",
             "version": "0.5",
             "download_url": "https://github.com/PKSHATechnology-Research/camphr_models/releases/download/0.5/en_elmo_medium-0.5.tar.gz"
+        }
+    ],
+    "test": [
+        {
+            "filename": "test_for_cli.txt",
+            "version": "0.5",
+            "download_url": "https://github.com/PKSHATechnology-Research/camphr_models/releases/download/0.5/test_for_cli.txt"
         }
     ]
 }
