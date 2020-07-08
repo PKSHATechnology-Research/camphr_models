@@ -14,12 +14,6 @@
     ],
     "en_elmo_medium": [
         {
-            "filename": "en_elmo_medium-0.6.0.tar.gz",
-            "tag": "0.6.0",
-            "version": "0.6.0",
-            "download_url": "https://github.com/PKSHATechnology-Research/camphr_models/releases/download/0.6.0/en_elmo_medium-0.6.0.tar.gz"
-        },
-        {
             "filename": "en_elmo_medium-0.5.tar.gz",
             "version": "0.5",
             "download_url": "https://github.com/PKSHATechnology-Research/camphr_models/releases/download/0.5/en_elmo_medium-0.5.tar.gz"
